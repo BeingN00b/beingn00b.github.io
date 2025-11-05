@@ -1,4 +1,4 @@
-[README.md](https://github.com/user-attachments/files/23362853/README.md)
+
 # Deepak Raj - Cybersecurity Portfolio Website
 
 A unique, modern, and interactive portfolio website showcasing cybersecurity expertise, professional experience, projects, and achievements.
